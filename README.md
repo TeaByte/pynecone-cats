@@ -8,6 +8,8 @@ simple random cats website built using pynecone
 install requirements
 ```
 pip install pynecone-io
+pip install requests
+pc init
 ```
 
 ## Start
